@@ -1,0 +1,223 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+  }
+.box{
+    background-position: fixed;
+}
+.box nav ul li {
+    color:crimson;
+}
+  ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 80%;
+    background-color:darkgoldenrod;
+    height: 50px;
+    align-items: center;
+    cursor: pointer;
+    color: azure;
+  }
+  h1 {
+    background-color:darkblue;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    color:#fff;
+  }
+  h2 {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+  }
+  .kk {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* padding-top: 40px; */
+    /* justify-content: space-around; */
+    /* padding-bottom: 40px; */
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+      url(/assets/hamty1.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    padding-bottom: 30px;
+    /* background-image: url(../assets/hamty1.jpeg);
+    width: 1300px;
+    height: 500px;
+    position: cover; */
+  }
+  .kk p1 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 50;
+    display: flex;
+    justify-content: center;
+    font-family: serif;
+    padding-top: 60px;
+    color: white;
+    padding-bottom: 30px;
+  }
+  .jj-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #fff;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    padding: 13px 34px;
+    cursor: pointer;
+  }
+  /* .kk{
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50;
+    transform: translate(-50%,-50%);
+    text-align: center;
+  } */
+  
+  /* img {
+    border: 2px solid black;
+    border-radius: 5px;
+  } */
+  p {
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    width: 500px;
+    height: 100px;
+  }
+  .ss {
+    justify-content: center;
+    display: flex;
+    padding-top: 40px;
+  }
+  .ss p {
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  .bb {
+    width: 300px;
+    height: 300px;
+    background-color: slategrey;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  .hey {
+    width: 300px;
+    height: 300px;
+    background-color: slategrey;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  .by {
+    width: 300px;
+    height: 300px;
+    background-color: slategrey;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .container button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    display:flexbox
+  }
+  .hmm {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    background-image: url(../assets/11221.jpeg);
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  .eee {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    background-image: url(../assets/11222.jpeg);
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  .hhh {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    background-image: url(../assets/umtFAC4.jpeg);
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  h5 {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: 300px;
+    padding-top: 40px;
+  }
+  footer {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+    padding: 40px;
+    /* display: flex;
+      justify-content: center; */
+  }
+  .jjh-btn {
+    /* width: 10px;
+    height: 100px;
+    background-color: blue;
+    text-align: center; */
+    /* display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #fff;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    padding: 13px 34px;
+    cursor: pointer; */
+    /* background-position: center; */
+    /* background-size: cover; */
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding: 30px;
+    width: 100%;
+    height: 5%;
+    background-color: black;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    border: 2px solid #fff;
+  }
+  

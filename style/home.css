@@ -1,0 +1,30 @@
+h1{
+     text-align: center;
+}
+.ahmad p{
+    background-color: moccasin;
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+}
+.project{
+    width: 350px;
+    height: 350px;
+    background-color: darksalmon;
+    display: inline-block;
+    border: 10px solid blue;
+    border-radius: 10px; 
+    display: flex; 
+    justify-content: space-around;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+/* .row::after {
+    content: "ahmad best bhai in world ";
+    clear: both;
+    display: table;
+  } */
